@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jasimameenek
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding from online studies
+- Passionated in Flutter app devolopment
 - 💞️ I’m looking to collaborate on .small projects
 - 📫 How to reach me is just follow here or msg me on instagram "@jasim_ameen_"
 
