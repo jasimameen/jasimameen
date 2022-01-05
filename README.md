@@ -9,7 +9,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasimameenek&theme=dark" alt="jasimameenek" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasimameenek&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasimameenek" /></p>
+<p aign="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasimameenek&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasimameenek" /></p>
 
 
 
