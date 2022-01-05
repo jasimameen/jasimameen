@@ -5,9 +5,10 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasimameenek&show_icons=true&theme=dark&locale=en" alt="jasimameenek" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jasimameenek&show_icons=true&theme=dark&locale=en" alt="jasimameenek" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasimameenek&theme=dark" alt="jasimameenek" /></p>
+
 <p aign="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasimameenek&show_icons=true&theme=dark&locale=en&layout=compact" alt="jasimameenek" /></p>
 
 
