@@ -4,7 +4,7 @@
 <img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=LESKEBOY&color=black">
 <img title="creator" src="https://img.shields.io/static/v1?label=FROM&message=INDIA&color=black">
 <br>
-<img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=black"></h1>
+<img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=Skill Learner&color=black"></h1>
 <h3 align="center"><img title="creator" src="https://img.shields.io/static/v1?label=A passionate frontend&message=developer from india&color=black"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasimameenek&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
