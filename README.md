@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasimameenek](https://github.com/jasimameenek)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter and Programming**
 
 - 📫 Reach me through **LinkedIn**
 
