@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter and Programming**
 
-- 📫 Reach me through **LinkedIn**(https://www.linkedin.com/in/jasimameenek/)
+- 📫 Reach me through [**LinkedIn**](https://www.linkedin.com/in/jasimameenek/)
 
 - ⚡ Fun fact **I cant sleep at time because of my coding Interest**
 
