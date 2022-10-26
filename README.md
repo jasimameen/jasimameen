@@ -21,7 +21,6 @@ Skills: DART / FLUTTER / PYTHON / C++
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-JASIM-blue.svg?logo=Github&longCache=true&style=social&label=Follow)]
-(https://github.com/jasimameen)
+[![GitHub Follow](https://img.shields.io/badge/Connect-JASIM-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/jasimameen/)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
