@@ -23,3 +23,13 @@ You can also follow my GitHub Profile to stay updated about my latest projects:
 [![GitHub Follow](https://img.shields.io/badge/Connect-JASIM-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/jasimameen/)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
+
+<a href="https://www.instagram.com/jasim_leskeboy/">
+  <img align="left" alt="Jasim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/JasimAmeen02">
+  <img align="left" alt="Jasim Ameen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jasimameen/">
+  <img align="left" alt="Jasim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
