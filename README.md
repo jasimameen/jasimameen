@@ -1,17 +1,32 @@
-# Jasim Ameen
-#### Programming Enthusiastic
+# Hey, I’m Jasim 👋
 
-I'm a dreamer who thinks about what changes I can make in the future days. the thousands of thoughts run through my mind I always try out new things. That's also why I'm here also I became a passionate flutter developer.
+I’ve been building software since I was 17.  
+Started out curious, stayed that way ever since.
 
-As a dreaming developer, I'm currently able to build anything I know there are limitations to my knowledge but that's easy to learn if it becomes a thing to grab.so I'm ready for that curve
+I didn’t plan to get into automation—it kind of found me. While working on various projects, I kept noticing how much time teams were losing to repetitive work. So I started helping quietly—building small tools to smooth things out. That slowly grew into something bigger.
 
+Now, on the side, I’m building systems that help early-stage teams spot workflow bottlenecks and generate tiny tools to fix them. Nothing complex—just the kind of tools that make you wonder why you didn’t have them earlier.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasim_leskeboy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasimameen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16896481) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JasimAmeen02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jasimleskeboy) 
+### My way of working
 
-<br>
+I don’t rush to code.  
+I like listening first, understanding how things actually run, then building just enough to remove the friction.  
+Most of my work sits quietly in the background, doing its thing without needing attention.
 
-## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+Along the way, I’ve led full-stack projects from scratch to production—some of which supported real growth for teams that didn’t have time to slow down.
 
-<br>
+### These days
+
+- Building automation tools that reduce manual work  
+- Partnering with founders to clean up operations  
+- Exploring ideas that may or may not turn into something bigger  
+
+I’m more interested in what’s essential than what’s impressive.  
+And I don’t mind the uncertainty—most of the fun is there anyway.
+
+---
+
+If you’re here out of curiosity, welcome.  
+If you’re building something and it feels a bit messy, I’d be happy to talk.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/jasimameen/). Always open to thoughtful chats.
